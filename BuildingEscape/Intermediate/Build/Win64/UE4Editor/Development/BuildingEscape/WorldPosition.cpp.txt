@@ -1,0 +1,3 @@
+D:\UE_Cpp_Course\BuildingEscapeGame\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h
+D:\UE_Cpp_Course\BuildingEscapeGame\BuildingEscape\Source\BuildingEscape\WorldPosition.h
+D:\UE_Cpp_Course\BuildingEscapeGame\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscape\WorldPosition.generated.h

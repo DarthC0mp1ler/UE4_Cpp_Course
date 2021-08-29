@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/UE_Cpp_Course/BuildingEscapeGame/BuildingEscape/.vscode": true,
+		"D:/UE_Cpp_Course/BuildingEscapeGame/BuildingEscape/Content": true,
+		"D:/UE_Cpp_Course/BuildingEscapeGame/BuildingEscape/Intermediate": true
+	}
+}

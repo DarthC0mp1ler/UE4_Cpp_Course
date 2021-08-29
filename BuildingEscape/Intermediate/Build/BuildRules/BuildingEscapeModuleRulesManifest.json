@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE_Cpp_Course\\BuildingEscapeGame\\BuildingEscape\\Source\\BuildingEscape\\BuildingEscape.Build.cs",
+		"D:\\UE_Cpp_Course\\BuildingEscapeGame\\BuildingEscape\\Source\\BuildingEscape.Target.cs",
+		"D:\\UE_Cpp_Course\\BuildingEscapeGame\\BuildingEscape\\Source\\BuildingEscapeEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}
